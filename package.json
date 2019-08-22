@@ -1,7 +1,7 @@
 {
   "name": "node-celery",
-  "version": "0.2.8",
-  "description": "Celery client for Node",
+  "version": "0.2.9",
+  "description": "Celery client for Node - Influee Fork",
   "author": "Mher Movsisyan <mher.movsisyan@gmail.com>",
   "scripts": {
     "test": "mocha tests"
